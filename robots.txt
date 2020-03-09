@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shejohphaw.gdo.io/sitemap.xml
